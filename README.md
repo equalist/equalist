@@ -2,6 +2,8 @@
 
 Equalist helps you create a playlist based on what you and your friends like on Spotify, so you won’t be stuck just listening to your friend’s boring playlist. Better yet, it can do so in a couple of seconds. Also, It’s free and that’s a great price!
 
+[**Live Demo**](https://www.equalist.xyz/)
+
 **Frontend:** Vuejs 
 
 **Backend:** \
